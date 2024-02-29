@@ -1,7 +1,7 @@
 import check_input
 from tasklist import TaskList
 
-# Estefania Perez & Joseph David
+# Estefania Perez
 # November 30, 2023
 # Description: Maintains a task list for the user and can be modified/saved by the user
 
